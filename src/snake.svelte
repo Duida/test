@@ -5,7 +5,6 @@
 <svelte:options tag="svelte-snake" immutable={true} />
 <main>
 	<h1>Hello Duida!</h1>
-	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
 	<button>Click</button>
 </main>
 
